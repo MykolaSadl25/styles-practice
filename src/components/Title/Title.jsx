@@ -1,6 +1,6 @@
-import {Heading} from "./Title.styled"
+import { Heading } from "./Title.styled";
 
-function Title({text}) {
-    return <Heading>{text}</Heading>
+function Title({ text }) {
+  return <Heading>{text}</Heading>;
 }
-export default Title
+export default Title;

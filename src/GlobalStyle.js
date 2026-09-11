@@ -12,6 +12,9 @@ ul{
 h1,h2,h3,p{
     margin: 0;
     font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    gap: 10px;
+    align-items: center;
 }
 img{
     display: block;
